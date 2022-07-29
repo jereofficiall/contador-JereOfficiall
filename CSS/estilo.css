@@ -1,0 +1,27 @@
+body {
+	background: #021934;
+}
+
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+	color: #ffffff;
+	font-family: calibri;
+}
+
+span {
+	font-size: 5em;
+}
+
+button {
+	border-radius: 20px;
+	border: none;
+	cursor: pointer;
+	padding: 10px 20px;
+	margin: 10px;
+	background-color: #6ecff6;
+}
